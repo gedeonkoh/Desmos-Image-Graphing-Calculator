@@ -1,10 +1,6 @@
 # Desmosify: A Desmos Image Graphing Calculator
-Desmosify is a Python-powered tool that intelligently transforms raster images into mathematically expressive plots within the Desmos Graphing Calculator. By analyzing visual content—such as line drawings, handwritten figures, or stylized diagrams—the tool converts contours into mathematical expressions including Bézier-like curves, vertical and oblique lines, all equipped with appropriate domain constraints.
-
-It empowers users to generate Desmos-compatible algebraic visualizations from real-world sketches or digital art. The final result is a plain-text file of equations, ready to be pasted into Desmos for a faithful, math-based rendering of the original image. Whether you're an educator, student, or a mathematically curious artist, Desmosify bridges image processing and algebra in a novel and interactive way.
-
+![Uploading Screenshot 2026-03-18 at 7.23.10 AM.png…]()
 ![image](https://github.com/user-attachments/assets/db09ca0b-8887-4b25-8753-52c2f4de225a)
-
 __________________________
 How It Works
 1. Desmosify operates through a combination of computer vision and geometric approximation. The workflow starts with edge detection via OpenCV’s Canny algorithm, isolating the most prominent lines and features in the image. It then simplifies these contours with a configurable approximation parameter, effectively reducing noise while maintaining essential structure. From there, it categorizes each segment as either a line or curve and generates a corresponding mathematical expression, formatted for Desmos and constrained to its original bounds.
