@@ -178,8 +178,6 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 
 <div align="center">
 
-Made with ❤️ by [Gedeon Koh](https://beacons.ai/gedeonkoh) · [GitHub](https://github.com/gedeonkoh)
-
-*"Where mathematics meets art."*
+Made by [Gedeon Koh](https://beacons.ai/gedeonkoh) · [GitHub](https://github.com/gedeonkoh)
 
 </div>
