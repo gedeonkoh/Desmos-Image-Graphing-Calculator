@@ -2,6 +2,7 @@
 <img width="1133" height="636" alt="Screenshot 2026-03-18 at 7 23 55 AM" src="https://github.com/user-attachments/assets/442ab869-8d60-4777-8e54-371223712bf7" />
 
 ![image](https://github.com/user-attachments/assets/db09ca0b-8887-4b25-8753-52c2f4de225a)
+*Sorry there was an error in the design, its not an iOS app :(*
 
 ---
 
